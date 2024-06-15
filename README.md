@@ -1,4 +1,4 @@
--<h1>Hi, I'm Jonathan! <br/><a href="https://github.com/JonathanBagnall">Computer Science Graduate</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+-<h1>Hi, I'm Jonathan! <br/><a href="https://github.com/JonathanBagnall">Computer Science Graduate</a></h1>
 
 <h2>🎓 Education</h2><br>
 <b>University College Cork</b><br>
