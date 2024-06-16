@@ -11,7 +11,7 @@ Grade-First Class Honours 1.1
 - <b>Full Stack Web App Project (HTML, CSS, Javascript, Python, Flask)</b>
   - [Flask Website](https://github.com/JonathanBagnall/Flask_Website_Project/tree/main) 
 
-- <b>Top Down Video Game Project</b>
+- <b>Top Down Video Game Project(Javascript, HTML, CSS)</b>
   - [Javascript Game](https://github.com/JonathanBagnall/Javascript_Game/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
