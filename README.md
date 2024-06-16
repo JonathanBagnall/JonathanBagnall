@@ -12,7 +12,7 @@ Grade-First Class Honours 1.1
   - [Flask Website](https://github.com/JonathanBagnall/Flask_Website_Project/tree/main) 
 
 - <b>Top Down Video Game Project</b>
-  - [ ()]()
+  - [Javascript Game](https://github.com/JonathanBagnall/Javascript_Game/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
