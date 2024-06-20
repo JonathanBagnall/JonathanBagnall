@@ -9,8 +9,7 @@ Grade-First Class Honours 1.1
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>HTTP Server (Python)</b>
-  - [HTTP Server](- <b>Full Stack Web App Project (HTML, CSS, Javascript, Python, Flask)</b>
-  - [Flask Website](https://github.com/JonathanBagnall/Flask_Website_Project/tree/main) ) 
+  - [HTTP Server](https://github.com/JonathanBagnall/Flask_Website_Project/tree/main) ) 
 
 - <b>Full Stack Web App Project (HTML, CSS, Javascript, Python, Flask)</b>
   - [Flask Website](https://github.com/JonathanBagnall/Flask_Website_Project/tree/main) 
