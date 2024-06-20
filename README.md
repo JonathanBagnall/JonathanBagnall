@@ -9,12 +9,12 @@ Grade-First Class Honours 1.1
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>HTTP Server (Python)</b>
-  - [HTTP Server](https://github.com/JonathanBagnall/http_server) ) 
+  - [HTTP Server](https://github.com/JonathanBagnall/http_server) 
 
 - <b>Full Stack Web App Project (HTML, CSS, Javascript, Python, Flask)</b>
   - [Flask Website](https://github.com/JonathanBagnall/Flask_Website_Project) 
 
-- <b>Top Down Video Game Project(Javascript, HTML, CSS)</b>
+- <b>Top Down Video Game Project (Javascript, HTML, CSS)</b>
   - [Javascript Game](https://github.com/JonathanBagnall/Javascript_Game)
 
 <h2> 🤳 Connect with me:</h2>
